@@ -11,5 +11,5 @@ My name is Calista Ifenkwe. I'm passionate about designing functional digital pr
 - 🌱 I’m currently learning Python, Flask.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing calistaifenkwe@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/119m1vaRSPRSXMLOh8YOdcSgwB3TiztLy/view?usp=share_link) and contact me by emailing calistaifenkwe@gmail.com.
 
