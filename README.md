@@ -1,6 +1,4 @@
-
-
-# Hello there; welcome 👋🏾
+# Hello, I'm Starr👋🏾
 
 [LinkedIn](https://www.linkedin.com/in/calista-ifenkwe/) | [Hashnode](https://starr.hashnode.dev/) | [Resume](https://drive.google.com/file/d/119m1vaRSPRSXMLOh8YOdcSgwB3TiztLy/view?usp=share_link)
 
