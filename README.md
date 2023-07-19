@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/calista-ifenkwe/) | [Hashnode](https://starr.hashnode.dev/) | [Resume](https://drive.google.com/file/d/119m1vaRSPRSXMLOh8YOdcSgwB3TiztLy/view?usp=share_link)
 
-My name is Calista. I'm a Software Developer passionate about building functional, intuitive products, sharing knowledge through documentation, and contributing to open source. I create technical content (on my [Blog](https://starr.hashnode.dev/create-a-beginner-friendly-blog-website-using-flask-a-python-framework#heading-connect-to-the-database-using-sqlmodel), and [Twitter](https://twitter.com/_StarrSz)), build useful [open-source projects](#).
+My name is Calista. I'm a Software Developer passionate about building functional, intuitive products, sharing knowledge through documentation, and contributing to open source. I create technical content (on my [Blog](https://starr.hashnode.dev/create-a-beginner-friendly-blog-website-using-flask-a-python-framework#heading-connect-to-the-database-using-sqlmodel)), build useful [open-source projects](#).
 
 **Here's a quick summary about me**:
 
