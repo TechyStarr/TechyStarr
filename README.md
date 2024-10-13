@@ -13,6 +13,6 @@ My name is Calista. I'm a Software Developer passionate about building functiona
 - 📫 You can [view my resume](https://drive.google.com/file/d/119m1vaRSPRSXMLOh8YOdcSgwB3TiztLy/view?usp=share_link)
  and also reach out to me through my [email](calistaifenkwe@gmail.com)
 
-###[![Starr's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechyStarr)](https://github.com/TechyStarr/github-readme-stats)
+...[![Starr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techy)](https://github.com/Techy/github-readme-stat)
 
 
