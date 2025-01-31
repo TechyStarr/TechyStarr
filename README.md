@@ -6,11 +6,11 @@ My name is Calista. I'm a Software Developer passionate about building functiona
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I write Python, Flask and some Frontend languages - HTML, CSS and JavaScript
+- 💡 Fun fact: Studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I write Python, FastApi, and some Frontend languages - Vue js.
 - 😊 I’m always open to contributing to fun open source projects, hackathons, internships. Shoot me a [dm](https://twitter.com/_StarrSzn)
 - 💼 Job interests: Software Engineer
-- 📫 You can [view my resume](https://drive.google.com/file/d/119m1vaRSPRSXMLOh8YOdcSgwB3TiztLy/view?usp=share_link)
+- 📫 You can [view my resume](https://drive.google.com/file/d/1S8s3aGNoq6-4IK0Dw_CUEp0EPfjE6LdJ/view?usp=sharing)
  and also reach out to me through my [email](calistaifenkwe@gmail.com)
 
 ...[![Starr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techy)](https://github.com/Techy/github-readme-stat)
